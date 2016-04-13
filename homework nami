@@ -4,6 +4,7 @@
   <title>O chytrém ševci a hloupém čertovi</title>
   <meta charset="utf-8">
   <style>
+        h1 {font-size: 60px} 
         h2    {color: red; font-style: normal}
        p {font-size: 13px}
        h2 {margin-top: 2.0em; margin-bottom: 0.5em}
